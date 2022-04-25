@@ -1,6 +1,7 @@
 package com.example.othregensburg.zapp
 
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
