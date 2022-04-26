@@ -6,11 +6,20 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
+        super.onCreate(savedInstanceState)              //adgregh
+        setContentView(R.layout.activity_main)  //abasge
+                //agegeg
         Log.d("DeinTag", "A")
         var test: String = "hello"
         println(test)
+        /*
+        a
+        vb
+        s
+        ge
+        s
+        e
+        g
+         */
     }
 }
